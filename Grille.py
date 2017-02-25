@@ -1,5 +1,5 @@
-from Cellule import Cellule
-from Organisme import Organisme
+from cellule import Cellule
+from organisme import Organisme
 import copy
 
 class Grille:

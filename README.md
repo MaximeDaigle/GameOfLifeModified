@@ -13,8 +13,9 @@ You can change the starting configuration in the config.txt file.
 In the tests directory, there is multiple example of config.txt and rules.txt.
 
 ####How to use
-* python GameOfLife (number of iterations to do)
-
+~~~~
+python GameOfLife (number of iterations to do)
+~~~~
   will automatically do the iterations
 
 

@@ -17,9 +17,11 @@ In the tests directory, there is multiple example of config.txt and rules.txt.
 
 will automatically do the iterations
 
+
 * python GameOfLife animation
 
 will do one iterations per 'enter'.
+
 
 * python GameOfLife couleur
 

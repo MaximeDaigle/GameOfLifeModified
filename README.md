@@ -20,14 +20,14 @@ python GameOfLife (number of iterations to do)
 
 
 
-
-* python GameOfLife animation
-
+~~~~
+python GameOfLife animation
+~~~~
   will do one iterations per 'enter'.
 
 
 
-
-* python GameOfLife couleur
-
+~~~~
+python GameOfLife couleur
+~~~~
   will do one iterations per 'enter' and living cells will be in color (work on mac and linux).

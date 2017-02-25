@@ -1,6 +1,6 @@
-from organisme import Organisme
-from cellule import Cellule
-from grille import Grille
+from Organisme import Organisme
+from Cellule import Cellule
+from Grille import Grille
 import string
 import copy
 import sys

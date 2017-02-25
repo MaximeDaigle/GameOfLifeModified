@@ -16,7 +16,7 @@ In the tests directory, there is multiple example of config.txt and rules.txt.
 ~~~~
 python GameOfLife (number of iterations to do)
 ~~~~
-  will automatically do the iterations
+  will automatically do the iterations.
 
 
 

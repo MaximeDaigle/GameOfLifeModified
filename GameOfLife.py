@@ -1,8 +1,4 @@
-from organisme import Organisme
-from cellule import Cellule
 from grille import Grille
-import string
-import copy
 import sys
 
 #Initialisaton de la grille
@@ -13,7 +9,10 @@ grilleJeu = Grille(int(dimensionGrille[1]), int(dimensionGrille[0]))
 #place les organismes initiales selon config.txt
 grilleJeu.init(ficheInit)
 
-parametre = sys.argv[1]
+try:
+    parametre = sys.argv[1]
+except IndexError:
+    parametre = input("add a parameter")
 
 #selectionne le bon mode d'execution
 if parametre == 'animation':
